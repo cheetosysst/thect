@@ -1,4 +1,5 @@
 languageCode = "zh-tw"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 baseUrl = "https://thect.tw"
 title = "Thect Blog"
 theme = "anubis"
