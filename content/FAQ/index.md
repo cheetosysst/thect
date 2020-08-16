@@ -1,7 +1,7 @@
 ---
 title: "常見問答 / FAQ"
 date: 2020-08-16T12:35:41+08:00
-draft: true
+draft: false
 ---
 
 一些常見的問答

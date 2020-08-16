@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Youtube</title>
+      <link>https://thect.tw/youtube/</link>
+      <pubDate>Sun, 16 Aug 2020 18:38:42 +0800</pubDate>
+      
+      <guid>https://thect.tw/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About_en</title>
       <link>https://thect.tw/about_en/</link>
       <pubDate>Sun, 16 Aug 2020 13:53:20 +0800</pubDate>
@@ -59,6 +68,59 @@ FastDeploy is a python base project file deploying tool for small projects.&lt;/
 &lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/Thect_36&#34;&gt;@Thect_36&lt;/a&gt; (Mostly for non-programming stuff)&lt;/li&gt;
 &lt;li&gt;IPoAC: &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BB%A5%E9%B8%9F%E7%B1%BB%E4%B8%BA%E8%BD%BD%E4%BD%93%E7%9A%84%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE&#34;&gt;Wikipedia&lt;/a&gt; Please release pigeon on top of Qixingshan during northeast monsoon season. This method is known for 55% of average packet loss rate, so please send multiple doves at the same time, and use bigger packet media, for example a SD card. I&amp;rsquo;ll try my best to catch it!&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>常見問答 / FAQ</title>
+      <link>https://thect.tw/faq/</link>
+      <pubDate>Sun, 16 Aug 2020 12:35:41 +0800</pubDate>
+      
+      <guid>https://thect.tw/faq/</guid>
+      <description>&lt;p&gt;一些常見的問答&lt;/p&gt;
+&lt;h2 id=&#34;q-你是誰&#34;&gt;Q: 你是誰?&lt;/h2&gt;
+&lt;p&gt;請先閱讀 &lt;a href=&#34;../about&#34;&gt;關於 / About&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;q-這個網站是幹嘛用的&#34;&gt;Q: 這個網站是幹嘛用的?&lt;/h2&gt;
+&lt;p&gt;讓我有分享個人研究、心得、或單純發廢文的地方&lt;/p&gt;
+&lt;h2 id=&#34;q-我可以轉載嗎&#34;&gt;Q: 我可以轉載嗎?&lt;/h2&gt;
+&lt;p&gt;除另外標示，所有文章皆以 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;創用 CC 姓名標示-相同方式分享 4.0 國際 授權條款&lt;/a&gt; 授權&lt;/p&gt;
+&lt;h2 id=&#34;q-你就讀的學校是&#34;&gt;Q: 你就讀的學校是?&lt;/h2&gt;
+&lt;p&gt;我目前就讀 &lt;a href=&#34;https://www.iecs.fcu.edu.tw/&#34;&gt;逢甲資訊工程系&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;q-你用哪些工具寫程式&#34;&gt;Q: 你用哪些工具寫程式?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;編輯器
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime Text 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vim.org/&#34;&gt;Vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;瀏覽器
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/zh-TW/firefox/new/&#34;&gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/zh-tw/edge&#34;&gt;Edge(新版)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業系統
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/zh-tw/windows&#34;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;硬體
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.apple.com/kb/sp659?locale=zh_TW&#34;&gt;Mac mini (Late 2012)&lt;/a&gt;
+執行 &lt;a href=&#34;https://endeavouros.com/&#34;&gt;Endeavour OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.microsoft.com/zh-tw/help/4037232/surface-pro-5th-gen-features&#34;&gt;Surface Pro 5th Gen i7 16GB&lt;/a&gt;
+執行 &lt;a href=&#34;https://www.microsoft.com/zh-tw/windowsforbusiness/windows-10-pro&#34;&gt;Windows 10 專業版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/products/raspberry-pi-zero-w/&#34;&gt;Raspberry Pi Zero W&lt;/a&gt;
+執行 &lt;a href=&#34;https://www.raspberrypi.org/downloads/&#34;&gt;Raspberry Pi OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.duckychannel.com.tw/tw/Ducky-Zero-3108-PBT-Side-print&#34;&gt;Ducky Zero 3108 茶軸側刻&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;q-要怎麼學電腦&#34;&gt;Q: 要怎麼學電腦?&lt;/h2&gt;
+&lt;p&gt;我不知道&lt;/p&gt;
 </description>
     </item>
     
