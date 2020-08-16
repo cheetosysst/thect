@@ -1,0 +1,61 @@
+languageCode = "zh-tw"
+baseUrl = ""
+title = "Thect Blog"
+theme = "anubis"
+paginate = 10.0
+enableRobotsTXT = true
+
+[menu]
+
+	[[menu.main]]
+	identifier = "posts"
+	name = "[文章 / Posts]"
+	title = "文章列表"
+	url = "/posts/"
+	weight = -1000
+
+	[[menu.main]]
+	identifier = "about"
+	name = "[關於 / About]"
+	title = "關於"
+	url = "/about"
+	weight = -50
+
+	[[menu.main]]
+	identifier = "github"
+	name = "[Github]"
+	title = "Github"
+	url = "https://github.com/cheetosysst"
+	weight = -20
+
+	[[menu.main]]
+	identifier = "faq"
+	name = "[FAQ]"
+	title = "文章列表"
+	url = "/faq/"
+	weight = -10
+
+
+[params]
+author = "Chen Chang"
+description = "Student at IECS of Feng Chia University"
+images = [
+	"images/Thect_small.jpg"
+]
+customCSS = [
+	"css/my.css"
+]
+customJS = [
+	"js/main.js"
+]
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "dark-without-switcher"
+readMore = true
+
+[markup]
+
+	[markup.goldmark]
+
+		[markup.goldmark.renderer]
+		unsafe = true
