@@ -22,6 +22,14 @@ enableRobotsTXT = true
 	weight = -50
 
 	[[menu.main]]
+	identifier = "youtube"
+	name = "[Youtube]"
+	post = "youtube"
+	title = "Youtube"
+	url = "/youtube"
+	weight = -30
+
+	[[menu.main]]
 	identifier = "github"
 	name = "[Github]"
 	title = "Github"
@@ -52,6 +60,11 @@ dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "dark-without-switcher"
 readMore = true
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
 
 [markup]
 
