@@ -40,7 +40,7 @@ enableRobotsTXT = true
 	identifier = "faq"
 	name = "[FAQ]"
 	title = "文章列表"
-	url = "/faq/"
+	url = "/faq"
 	weight = -10
 
 
