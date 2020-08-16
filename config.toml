@@ -46,7 +46,7 @@ enableRobotsTXT = true
 
 [params]
 author = "Chen Chang"
-description = "Student at IECS of Feng Chia University"
+description = "Thect 的部落格，分享個人研究、心得、或單純發廢文的地方"
 images = [
 	"images/Thect_small.jpg"
 ]
