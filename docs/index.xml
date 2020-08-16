@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thect Blog</title>
-    <link>thect.tw/</link>
+    <link>https://thect.tw/</link>
     <description>Thect Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 16 Aug 2020 18:43:24 +0800</lastBuildDate>
     
-    <atom:link href="thect.tw/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thect.tw/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>喔讚，我有部落格了</title>
-      <link>thect.tw/posts/2020-08-16-new_blog/</link>
+      <link>https://thect.tw/posts/2020-08-16-new_blog/</link>
       <pubDate>Sun, 16 Aug 2020 18:43:24 +0800</pubDate>
       
-      <guid>thect.tw/posts/2020-08-16-new_blog/</guid>
+      <guid>https://thect.tw/posts/2020-08-16-new_blog/</guid>
       <description>&lt;p&gt;喔讚，我有部落格了&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About_en</title>
-      <link>thect.tw/about_en/</link>
+      <link>https://thect.tw/about_en/</link>
       <pubDate>Sun, 16 Aug 2020 13:53:20 +0800</pubDate>
       
-      <guid>thect.tw/about_en/</guid>
+      <guid>https://thect.tw/about_en/</guid>
       <description>&lt;h3 id=&#34;-about&#34;&gt;🤔 About&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Name: 張 辰 (Chang, Chen)&lt;/li&gt;
@@ -64,10 +64,10 @@ FastDeploy is a python base project file deploying tool for small projects.&lt;/
     
     <item>
       <title>關於 / About</title>
-      <link>thect.tw/about/</link>
+      <link>https://thect.tw/about/</link>
       <pubDate>Sun, 16 Aug 2020 11:54:51 +0800</pubDate>
       
-      <guid>thect.tw/about/</guid>
+      <guid>https://thect.tw/about/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;../about_en&#34;&gt;English version&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;-簡介&#34;&gt;🤔 簡介&lt;/h3&gt;
 &lt;ul&gt;
