@@ -1,5 +1,5 @@
 languageCode = "zh-tw"
-baseUrl = ""
+baseUrl = "thect.tw"
 title = "Thect Blog"
 theme = "anubis"
 paginate = 10.0
