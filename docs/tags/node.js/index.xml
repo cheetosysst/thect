@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Thect Blog</title>
-    <link>https://thect.tw/posts/</link>
-    <description>Thect Blog (Posts)</description>
+    <title>Node.js on Thect Blog</title>
+    <link>https://thect.tw/tags/node.js/</link>
+    <description>Thect Blog (Node.js)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Tue, 18 Aug 2020 17:12:48 +0800</lastBuildDate>
     
-    <atom:link href="https://thect.tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thect.tw/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -41,16 +41,6 @@
 &lt;hr&gt;
 &lt;p&gt;沒寫過部落格，不確定怎麼寫的說&amp;hellip; 感覺最後寫得有點像我在發牢騷的說&lt;/p&gt;
 &lt;p&gt;下一篇大概是火箭科普&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>喔讚，我有部落格了</title>
-      <link>https://thect.tw/posts/2020-08-16-new_blog/</link>
-      <pubDate>Sun, 16 Aug 2020 18:43:24 +0800</pubDate>
-      
-      <guid>https://thect.tw/posts/2020-08-16-new_blog/</guid>
-      <description>&lt;p&gt;喔讚，我有部落格了&lt;/p&gt;
 </description>
     </item>
     

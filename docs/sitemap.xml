@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thect.tw/tags/hugo/</loc>
+    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thect.tw/tags/node.js/</loc>
+    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thect.tw/posts/</loc>
-    <lastmod>2020-08-16T18:43:24+08:00</lastmod>
+    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thect.tw/tags/</loc>
+    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://thect.tw/</loc>
-    <lastmod>2020-08-16T18:43:24+08:00</lastmod>
+    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thect.tw/posts/20200818_blog/</loc>
+    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
   </url>
   
   <url>
@@ -39,10 +59,6 @@
   
   <url>
     <loc>https://thect.tw/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thect.tw/tags/</loc>
   </url>
   
 </urlset>
