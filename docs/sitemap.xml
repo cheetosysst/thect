@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thect.tw/posts/20200826_rocket_cycle/</loc>
+    <lastmod>2020-08-26T23:16:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thect.tw/posts/</loc>
+    <lastmod>2020-08-26T23:16:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thect.tw/</loc>
+    <lastmod>2020-08-26T23:16:35+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thect.tw/tags/hugo/</loc>
     <lastmod>2020-08-18T17:12:48+08:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>https://thect.tw/posts/</loc>
-    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thect.tw/tags/</loc>
-    <lastmod>2020-08-18T17:12:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thect.tw/</loc>
     <lastmod>2020-08-18T17:12:48+08:00</lastmod>
   </url>
   
