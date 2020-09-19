@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 26 Aug 2020 23:16:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 13:54:02 +0800</lastBuildDate>
     
     <atom:link href="https://thect.tw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[音樂] Emotional_Meteor</title>
+      <link>https://thect.tw/posts/emotional_meteor/</link>
+      <pubDate>Sat, 19 Sep 2020 13:54:02 +0800</pubDate>
+      
+      <guid>https://thect.tw/posts/emotional_meteor/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/RfTXFwNuJmQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/RfTXFwNuJmQ&#34;&gt;在 Youtube 上聆聽&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>簡易火箭科學 1 - 火箭引擎種類</title>
@@ -111,25 +122,6 @@
 &lt;p&gt;沒寫過部落格，不確定怎麼寫的說&amp;hellip; 感覺最後寫得有點像我在發牢騷的說&lt;/p&gt;
 &lt;p&gt;下一篇大概是火箭科普&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>喔讚，我有部落格了</title>
-      <link>https://thect.tw/posts/2020-08-16-new_blog/</link>
-      <pubDate>Sun, 16 Aug 2020 18:43:24 +0800</pubDate>
-      
-      <guid>https://thect.tw/posts/2020-08-16-new_blog/</guid>
-      <description>&lt;p&gt;喔讚，我有部落格了&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>https://thect.tw/youtube/</link>
-      <pubDate>Sun, 16 Aug 2020 18:38:42 +0800</pubDate>
-      
-      <guid>https://thect.tw/youtube/</guid>
-      <description></description>
     </item>
     
     <item>

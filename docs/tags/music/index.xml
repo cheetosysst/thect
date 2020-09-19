@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Thect Blog</title>
+    <link>https://thect.tw/tags/music/</link>
+    <description>Thect Blog (Music)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 19 Sep 2020 13:54:02 +0800</lastBuildDate>
+    
+    <atom:link href="https://thect.tw/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[音樂] Emotional_Meteor</title>
+      <link>https://thect.tw/posts/emotional_meteor/</link>
+      <pubDate>Sat, 19 Sep 2020 13:54:02 +0800</pubDate>
+      
+      <guid>https://thect.tw/posts/emotional_meteor/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/RfTXFwNuJmQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/RfTXFwNuJmQ&#34;&gt;在 Youtube 上聆聽&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

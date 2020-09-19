@@ -2,6 +2,7 @@
 title: "簡易火箭科學 1 - 火箭引擎種類"
 date: 2020-08-26T23:16:35+08:00
 draft: false
+tags: ["Science", "Rocket"]
 ---
 ![Falcon 9 Launch](https://i.imgur.com/KGzrC6J.jpg)
 *上圖版權屬於 SpaceX，以 [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) 於 [Flicker](https://www.flickr.com/photos/spacex/49549022017/in/dateposted/) 釋出*

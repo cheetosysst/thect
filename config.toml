@@ -28,7 +28,7 @@ summaryLength = 1
 	name = "[Youtube]"
 	post = "youtube"
 	title = "Youtube"
-	url = "/youtube"
+	url = "https://youtube.com/thect"
 	weight = -30
 
 	[[menu.main]]
