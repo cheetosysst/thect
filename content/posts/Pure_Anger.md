@@ -1,5 +1,5 @@
 ---
-title: "Pure_Anger"
+title: "[音樂] Pure_Anger"
 date: 2020-11-01T11:10:54+08:00
 draft: false
 ---
