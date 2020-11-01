@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thect.tw/posts/</loc>
+    <lastmod>2020-11-01T11:10:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thect.tw/posts/pure_anger/</loc>
+    <lastmod>2020-11-01T11:10:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thect.tw/</loc>
+    <lastmod>2020-11-01T11:10:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thect.tw/posts/emotional_meteor/</loc>
     <lastmod>2020-09-19T13:54:02+08:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>https://thect.tw/posts/</loc>
-    <lastmod>2020-09-19T13:54:02+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thect.tw/tags/</loc>
-    <lastmod>2020-09-19T13:54:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thect.tw/</loc>
     <lastmod>2020-09-19T13:54:02+08:00</lastmod>
   </url>
   
