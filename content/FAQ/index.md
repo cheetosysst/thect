@@ -37,6 +37,7 @@ draft: false
 	- [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
 		執行 [Raspberry Pi OS](https://www.raspberrypi.org/downloads/)
 	- [Ducky Zero 3108 茶軸側刻](https://www.duckychannel.com.tw/tw/Ducky-Zero-3108-PBT-Side-print)
+	- [Logitech G502 HERO](https://www.logitechg.com/zh-tw/products/gaming-mice/g502-hero-gaming-mouse.910-005473.html)
 
 ## Q: 要怎麼學電腦?
 我不知道
